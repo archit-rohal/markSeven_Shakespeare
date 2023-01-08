@@ -19,42 +19,42 @@ font-family: 'Playfair Display', serif;
             padding: 1rem;
         }
 #title h1 {
-    background-color: yellow;
+    background-color: grey; 
     margin: 0px;
     text-align: center;
-    color: #3b82f6;
+    color: turquoise; 
     padding: 1rem;
     font-size: 55px;
 }
 #here {
     font-size: 20px; 
-    color: #3b82f6;
+    color: turquoise; 
     margin-left: 1rem;
     padding: 0.5rem;
     font-weight: bold;
 }
 #btn-translate {
-    color: #3b82f6;
-    background-color: yellow;
+    color: turquoise; 
+    background-color: grey; 
     font-weight: bolder;
     font-size: 20px;
     margin-left: 1rem;
     padding: 0.5rem;
 }
 #about {
-    background-color: yellow;
-    color:#3b82f6;
+    background-color: grey; 
+    color: turquoise;
     margin-bottom: 0px;
     margin-top:18rem;
     text-align: center;
     font-size: 32px;
 }
 #speak {
-    background-color: yellow;
+    background-color: grey; 
     font-size: larger;
     font-weight: bold;
     margin: 0px;
-    color:#3b82f6;
+    color: turquoise;
     text-align: center;
     padding-bottom: 6rem;
 }
